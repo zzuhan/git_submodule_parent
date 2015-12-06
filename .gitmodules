@@ -1,3 +1,4 @@
 [submodule "child"]
 	path = child
 	url = https://github.com/zzuhan/git_submodule_child
+	master = master
